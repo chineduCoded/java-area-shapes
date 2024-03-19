@@ -10,4 +10,4 @@
 - `javac ShapeAreaCalculator.java`
 - `java ShapeAreaCalculator`
 
-*N.B: You can change the values of the shapes input.csv*
+*N.B: You can change the values of the shapes input.txt*
