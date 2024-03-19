@@ -1,7 +1,7 @@
 # Calculate the Area of Shapes
 
 ## Using Visual Studio Code IDE
-- Install Java Development Kit (JDK)
+- Install Java Development Kit (JDK) on your system.
 - Install Extension Pack for Java
 
 ## Running the program
